@@ -6,11 +6,19 @@
   "scripts": {
     "start": "node src/app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickreal/weather-app.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maverickreal/weather-app/issues"
+  },
+  "homepage": "https://github.com/maverickreal/weather-app#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.2",
-    "postman-request": "*"
+    "postman-request": "^2.88.1-postman.30"
   }
 }
